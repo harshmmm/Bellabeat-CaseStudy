@@ -34,4 +34,15 @@ Sršen knows that an analysis of Bellabeat’s available consumer data would rev
     ### C - Comprehensive
     ### C - Current
     ### C - Cited
-    The usability rating on Kaggle for the data-set is **10.00**
+    The usability score on Kaggle for the data-set is **10.00**
+    
+3. **PROCESS**: Create, transform and clean data
+    - We have cleaned data, transformed data-ypes, combined all required data-sets and synced all columns.
+
+4. **ANALYZE**: Identify patternes and draw conclusions by aggregating data, make decisions
+    - We have aggregated data on various grounds and helped our decicion making process. Results may be shown in Visualizations.
+
+5. **SHARE**: Create effective visualizations to share your insights.
+    - We have created visualizations on RStudio as well as exported data to create a dashboard on [Tableau Public](https://public.tableau.com/app/profile/harsh.malik/viz/CaseStudyHowcanawellnesstechnologycompanyplayitsmartbyGoogleCareerCertificates/Dashboard1)
+
+6. **ACT**: Decision making process is done by the stakeholders.
