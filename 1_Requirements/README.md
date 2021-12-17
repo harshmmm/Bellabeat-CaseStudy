@@ -4,7 +4,7 @@
 
 In this Case Study, the task is to analyze trends of FitBit users' (or non-Bellabeat users') data to draw insights on how can Bellabeat develop their products for a better reception in the market.  
 
-##Research
+## Research
 
 Bellabeat is a high-tech manufacturer of health-focused products for women. It is a successful small company, but they have the potential to become a larger player in the global smart device market.
 Products
