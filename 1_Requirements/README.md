@@ -34,4 +34,4 @@ Sršen knows that an analysis of Bellabeat’s available consumer data would rev
     ### C - Comprehensive
     ### C - Current
     ### C - Cited
-
+    The usability rating on Kaggle for the data-set is **10.00**
