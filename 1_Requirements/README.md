@@ -46,3 +46,12 @@ Sršen knows that an analysis of Bellabeat’s available consumer data would rev
     - We have created visualizations on RStudio as well as exported data to create a dashboard on [Tableau Public](https://public.tableau.com/app/profile/harsh.malik/viz/CaseStudyHowcanawellnesstechnologycompanyplayitsmartbyGoogleCareerCertificates/Dashboard1)
 
 6. **ACT**: Decision making process is done by the stakeholders.
+
+
+## Requirements
+- A clear summary of the business task
+- A description of all data sources used
+- Documentation of any cleaning or manipulation of data
+- A summary of your analysis
+- Supporting visualizations and key findings
+- Your top high-level content recommendations based on your analysis
