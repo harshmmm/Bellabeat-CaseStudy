@@ -16,3 +16,7 @@ The source code is saved as "bellabeat_analysis.R"
 | 1_Requirements  |Introduction, Overview and Requirements of the Case Study  |
 | 2_DataSources  | All the data files used for analysis   |
 | 3_Output| All visualization and dataframe outputs of the R program|
+
+## External Links
+1. [FitBit Fitness Tracker Data (CC0: Public Domain, dataset made available through Mobius)](https://www.kaggle.com/arashnic/fitbit)
+2. [Tableau Viz](https://public.tableau.com/app/profile/harsh.malik/viz/CaseStudyHowcanawellnesstechnologycompanyplayitsmartbyGoogleCareerCertificates/Dashboard1)
