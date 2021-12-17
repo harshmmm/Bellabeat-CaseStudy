@@ -15,4 +15,4 @@ The source code is saved as "bellabeat_analysis.R"
 | ------------- | ------------- |
 | 1_Requirements  |Introduction, Overview and Requirements of the Case Study  |
 | 2_DataSources  | All the data files used for analysis   |
-| 3_OutputVizzes| All visualization outputs of the R program|
+| 3_OutputVizzes| All visualization and dataframe outputs of the R program|
