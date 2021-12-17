@@ -25,5 +25,6 @@ Sršen knows that an analysis of Bellabeat’s available consumer data would rev
 [FitBit Fitness Tracker Data](https://www.kaggle.com/arashnic/fitbit) (CC0: Public Domain, dataset made available through Mobius): This Kaggle data set contains personal fitness tracker from thirty fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits.
 
 ## Steps of Analysis
-- **ASK** : 1. What is the problem you are trying to solve? 
-            2. How can your insights drive business decisions?
+- **ASK** : Ask effective questions and define the problem. 
+1. What is the problem you are trying to solve? 
+2. How can your insights drive business decisions?
