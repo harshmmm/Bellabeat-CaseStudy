@@ -28,5 +28,10 @@ Sršen knows that an analysis of Bellabeat’s available consumer data would rev
 1. **ASK** : Ask effective questions and define the problem.
     - What are the trends in smart device usage?
     - How could these trends help influence Bellabeat marketing strategy?
-2. **PREPARE**: Understand how data is generated and stored and prepare it for analysis. Make sure it is unbiased and credible. Is the data ![ROCCC](https://drive.google.com/file/d/1TtZjECP88W8N-k4OO5Q3I1eeqKdxyK8I/view?usp=sharing)?
+2. **PREPARE**: Understand how data is generated and stored and prepare it for analysis. Make sure it is unbiased and credible. Is the data ROCCC?
+    ### R - Reliable
+    ### O - Original
+    ### C - Comprehensive
+    ### C - Current
+    ### C - Cited
 
